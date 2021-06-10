@@ -10,4 +10,4 @@ Ejemplo:
 
 ```
 
-useCounter // recibe un valor por defecto
+useCounter() // recibe un valor por defecto
